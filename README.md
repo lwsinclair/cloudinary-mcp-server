@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/felores-cloudinary-mcp-server-badge.png)](https://mseep.ai/app/felores-cloudinary-mcp-server)
+
 # Cloudinary MCP Server
 
 This MCP server provides tools for uploading images and videos to Cloudinary through Claude Desktop and compatible MCP clients.
